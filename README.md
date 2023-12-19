@@ -9,7 +9,20 @@
 
 ## 과제명
 클라우드 기반 자율주행 차량 오류 및 한계 상황 지능형 원격지원 기술 개발
+Development of Intelligent Teleoperation Technology for Cloud based Autonomous Vehicle Errors and Limit Situation
+고유번호: 1711195752 / 세부과제번호 : RS-2023-00229833
 
+## 사업기간
+2023.04.01 ~ 2026.12.31 (45개월)
+
+## 주관기관
+지능형자동차부품진흥원
+
+## 참여기관
+- 한국전자통신연구원
+- (주)카카오모빌리티
+- (주)에이브이지니어스
+- 유니낙스(주)
 
 ## 과제목표
 - 자율주행 오류 및 한계 상황 발생시 원격 지원 대처 프로세스 기술 설계 및 개발
