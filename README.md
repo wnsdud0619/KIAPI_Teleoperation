@@ -1,6 +1,6 @@
 <div align="center">
   
-# <img src="https://github.com/Yunhyeongseok-kiapi/KIAPI_dataset/assets/85465084/9304bae8-7878-4b71-853f-08cff6392d4e" width="100" height ="30"> Korea Intelligent Automotive Parts Promotion Institute(KIAPI) 
+# <img src="https://github.com/Yunhyeongseok-kiapi/KIAPI_dataset/assets/85465084/9304bae8-7878-4b71-853f-08cff6392d4e" width="100" height ="25"> Korea Intelligent Automotive Parts Promotion Institute(KIAPI) 
 
 </div>
 
