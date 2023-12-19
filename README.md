@@ -21,4 +21,4 @@
 - 실차 기발 Direct/In-direct 원격지원 서비스 테스트 및 응답 성능 분석
 - 클라우드 기반 자율주행 차량 지능형 원격지원 기술 실환경/실차 검증
 
-<img src="https://github.com/wnsdud0619/KIAPI_Teleoperation/assets/25000847/f96cc212-d9d1-4449-a4c4-748d8f9fae92" width="300" height ="150">
+<img src="https://github.com/wnsdud0619/KIAPI_Teleoperation/assets/25000847/f96cc212-d9d1-4449-a4c4-748d8f9fae92" width="600" height ="300">
