@@ -1,6 +1,3 @@
-
-  
-
 <div align="center">
   
 # Korea Intelligent Automotive Parts Promotion Institute(KIAPI) 
