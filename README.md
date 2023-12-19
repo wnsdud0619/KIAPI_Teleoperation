@@ -8,10 +8,8 @@
 자율주행기술개발현신사업
 
 ## 과제명
-클라우드 기반 자율주행 차량 오류 및 한계 상황 지능형 원격지원 기술 개발
-
-Development of Intelligent Teleoperation Technology for Cloud based Autonomous Vehicle Errors and Limit Situation
-
+클라우드 기반 자율주행 차량 오류 및 한계 상황 지능형 원격지원 기술 개발  
+Development of Intelligent Teleoperation Technology for Cloud based Autonomous Vehicle Errors and Limit Situation  
 고유번호: 1711195752 / 세부과제번호 : RS-2023-00229833
 
 ## 사업기간
